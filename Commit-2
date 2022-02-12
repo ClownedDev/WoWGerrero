@@ -69,3 +69,4 @@ Fix quest ¡Por todos los ciervos! ya se puede completar sin problemas.
 Fix phase del boss Señor de la magia Urom en la mazmorra "El Oculus" ya es visible tras matar al segundo boss.
 Fix item "veneno-mortisangre" Ya es usable nuevamente con su respectivo escalado por stacks.
 Ya se puede completar la mision: pisándole-los-talones No es un fix concreto solo es completable ya que requiere mas trabajo pero mientras acomodamos la estructura del source para que tome este tipo de misiones la podran completar y no perder la linea de misiones.
+Se agregaron de forma correcta El ancestro Son del Viento y El ancestro Sombreterna con sus respectivas phases.
