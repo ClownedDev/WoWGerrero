@@ -85,3 +85,4 @@ Fix quest "Ayuda de emergencia" ahora el npc inicia el dialogo y al finalizar te
 Fix error de pet que no desaparece al usar montura.
 Fix loot Alizabal en modo 25j.
 Nuevo sistema de Exlusion en Pets y Totems, esto mejora eventos similares al Ping Pong de Zonozz.
+Fix loot de  [Prisma de fuego] ahora ya da los items que indica en su descripción.
