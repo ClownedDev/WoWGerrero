@@ -84,3 +84,4 @@ Fix quest "Locura" el npc ahora te sigue hasta llegar al lugar entrar e iniciar 
 Fix quest "Ayuda de emergencia" ahora el npc inicia el dialogo y al finalizar te completa la misión.
 Fix error de pet que no desaparece al usar montura.
 Fix loot Alizabal en modo 25j.
+Nuevo sistema de Exlusion en Pets y Totems, esto mejora eventos similares al Ping Pong de Zonozz.
