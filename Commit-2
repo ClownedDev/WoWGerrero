@@ -88,3 +88,4 @@ Nuevo sistema de Exlusion en Pets y Totems, esto mejora eventos similares al Pin
 Fix loot de  [Prisma de fuego] ahora ya da los items que indica en su descripción.
 Se agrego la función de canales al antispam para controlar mucho mas el abuso o spam de otros servidores.
 Fix en auras de karazhan siendo usadas fuera de su área respectiva.
+Fix spam en consola al usar investigar arqueología causando caídas en el servidor.
