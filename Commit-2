@@ -90,3 +90,4 @@ Se agrego la función de canales al antispam para controlar mucho mas el abuso o
 Fix en auras de karazhan siendo usadas fuera de su área respectiva.
 Fix spam en consola al usar investigar arqueología causando caídas en el servidor.
 Fix evento de Sapper en Dragonsoul, ahora ya se le puede pegar desde que cae de forma correcta.
+Fix spell "Palabra de gloria" se reacomodo sus valores.
