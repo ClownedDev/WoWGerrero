@@ -4,3 +4,4 @@ Fix bloque de hielo en hagara ya no es afectado por efectos similares a stun, ro
 Fix quest "Las Cámaras de Reflexión" ahora ya se recibe el item al terminar con la espada.
 Fix item "Dragonira, el Reposo de Tarecgosa" ahora ya lanza mas seguido "Cólera de Tarecgosa" acorde a su % de probabilidad de forma correcta.
 Fix item "Naipe de la Luna Negra: Volcán" ahora ya lanza de forma Volcán brindando los beneficios de su descripción.
+Fix item "luchador de fosa" Ahora la formula en su tiempo de uso ya trabaja de forma correcta evitando el bug de constante activación.
