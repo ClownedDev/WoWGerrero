@@ -2,3 +2,4 @@ Fix drop de Filón de torio enriquecido, ahora suelta mas minerales.
 Fix quest "Un esfuerzo asombroso" ahora ya da el item requerido al pescar.
 Fix bloque de hielo en hagara ya no es afectado por efectos similares a stun, root o nockback.
 Fix quest "Las Cámaras de Reflexión" ahora ya se recibe el item al terminar con la espada.
+Fix item "Dragonira, el Reposo de Tarecgosa" ahora ya lanza mas seguido "Cólera de Tarecgosa" acorde a su % de probabilidad de forma correcta.
