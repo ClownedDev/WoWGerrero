@@ -7,3 +7,4 @@ Fix item "Naipe de la Luna Negra: Volcán" ahora ya lanza de forma Volcán brind
 Fix item "luchador de fosa" Ahora la formula en su tiempo de uso ya trabaja de forma correcta evitando el bug de constante activación.
 Fix stat critico en melees, rango y hechizos.
 Fix Golpe de Cruzado y veredicto del templario, ahora ya escalan su daño de forma correcta.
+Fix talento proposito divino ahora ya cumple su funcion sin conflictos en el codigo.
