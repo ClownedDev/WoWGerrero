@@ -10,3 +10,4 @@ Fix Golpe de Cruzado y veredicto del templario, ahora ya escalan su daño de for
 Fix talento proposito divino ahora ya cumple su funcion sin conflictos en el codigo.
 Fix Glifo de Piroexplosion ahora ya brinda el % de chance critico que corresponde.
 Fix Glifo de Bola de Fuego ahora ya brinda el % de chance critico que corresponde.
+Fix talento "Maestro de los Elementos" ahora ya regeneras mana con los críticos.
