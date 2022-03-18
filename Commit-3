@@ -55,3 +55,4 @@ Se reacomodo todas las creaturas, movements, textos y smarts en general de firel
 Se esta reacomodando los flags y types de las creaturas en grim batol esto para hacerla mas dinamica en modo blizz.
 Mejora en el movement de bethtilac
 Se recreo la mision lazy peons eliminando smarts viejos y actualizandolo para un mejor funcionamiento.
+fix spell curación ancestral y sanación ancestral su proc ahora ya trabaja de forma correcta.
