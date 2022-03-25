@@ -78,3 +78,4 @@ Fix spell emboscador de las sombras ahora dura 30 segundos.
 HackFix  magtheridon ahora ya es atacable desde el inicio del combate.
 Ultima parte de halls of reflection da loot de forma normal, requiere algunos ajustes en mecánicas pero se puede hacer sin problemas.
 Se cambio la velocidad de dracos en DS y se le cambio la mecánica de vuelo a valeera aun se seguirá mejorando los 3 vuelos.
+Fix velocidad de runas en dk, se acomodo la formula de celeridad y tiempo.
