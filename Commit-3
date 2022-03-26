@@ -80,3 +80,4 @@ Ultima parte de halls of reflection da loot de forma normal, requiere algunos aj
 Se cambio la velocidad de dracos en DS y se le cambio la mecánica de vuelo a valeera aun se seguirá mejorando los 3 vuelos.
 Fix velocidad de runas en dk, se acomodo la formula de celeridad y tiempo.
 Daño de lluvia de estrellas reacomodada con un % de 0.6% en su daño base.
+Nuevo sistema de como se aplica la celeridad en los players en general agregado al servidor, esto calcula de forma mas exacta los valores que se aplican a los hechizos y tiempos de casteos en general.
