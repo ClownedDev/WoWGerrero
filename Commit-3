@@ -86,3 +86,4 @@ Fix spell maestría asesino pujante ahora ya da el 3.5% por puntos de maestria y
 hackfix mientras hyjal arde ya se puede ir con Ysera.
 Fix no blizzlike que permite completar la mision invocar al trueno se trabajara mas a detalle pero por mientras ya trabaja.
 mision proteger el envío ya es completable.
+Se agrego nuevo sistema Antifailwaypoint este tendria que teleportar o sacar de una zona al player para evitar una caida del servidor con o sin intencion, ejemplo caer del barco en icc y caminar por debajo de la estancia hasta causar una caida.
