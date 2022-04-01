@@ -91,3 +91,4 @@ Se agrego Anticharmed crash este evita o trata de evitar que creaturas bajo echi
 Nuevo sistema y ajustes en creaturas y vehiculos en general, esto hace que cuando las creaturas están en vehículos reseteeen y dejen el combate que bugea a los jugadores en cualquier parte y los deja en un combate bug sin poder salir de el.
 fix spell https://es.classic.wowhead.com/spell=7384/ultrapoder ahora escala de forma correcta.
 fix spell golpe mortal ahora ya escala de forma correcta con el daño base del stat en el guerrero.
+Nueva formula de armadura y daño fisico reducido en general trabajando de forma normal.
