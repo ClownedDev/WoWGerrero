@@ -6,3 +6,4 @@ Fix spell https://es.classic.wowhead.com/spell=689/drenar-vida ya hace el daño 
 Fix spell https://es.classic.wowhead.com/spell=1120/drenar-alma ahora ya escala de forma correcta y con valores blizzlike.
 @everyone Se le hizo un ajuste a los procs y flags de la spell https://es.wowhead.com/spell=603/fatalidad
 fix spell https://es.wowhead.com/spell=47541/espiral-de-la-muerte se le quito la limitacion y se le agrego la data correcta para su escalado con daño de sombras.
+fix spell de https://es.wowhead.com/spell=49206/invocar-gárgola se le quito la limitacion y se le agrego la data correcta para que scale con los stats del dk.
