@@ -3,3 +3,4 @@ Fix spell https://classic.wowhead.com/spell=78/heroic-strike ahora ya hace el da
 fix Daño escalado de https://es.wowhead.com/spell=1464/embate ahora ya trabaja de forma correcta.
 Fix spell https://es.wowhead.com/spell=85288/arremetida-enfurecida ya escala de forma correcta.
 Fix spell https://es.classic.wowhead.com/spell=689/drenar-vida ya hace el daño de sombras que corresponde por su formula.
+Fix spell https://es.classic.wowhead.com/spell=1120/drenar-alma ahora ya escala de forma correcta y con valores blizzlike.
