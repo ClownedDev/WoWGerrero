@@ -9,3 +9,4 @@ fix spell https://es.wowhead.com/spell=47541/espiral-de-la-muerte se le quito la
 fix spell de https://es.wowhead.com/spell=49206/invocar-gárgola se le quito la limitacion y se le agrego la data correcta para que scale con los stats del dk.
 Quest https://es.wowhead.com/quest=28172/no-han-hecho-nada-malo se puede completar de forma normal.
 mision https://es.wowhead.com/quest=28177/abastecerse ya se puede tomar del npc tomandola en el orden que corresponde.
+Quest https://es.wowhead.com/quest=28202/un-disfraz-perfecto se toma de forma normal en su orden correcto.
