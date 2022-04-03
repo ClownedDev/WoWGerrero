@@ -12,3 +12,4 @@ mision https://es.wowhead.com/quest=28177/abastecerse ya se puede tomar del npc 
 Quest https://es.wowhead.com/quest=28202/un-disfraz-perfecto se toma de forma normal en su orden correcto.
 Fix spell https://es.wowhead.com/spell=11366/piroexplosión ya genera el daño correcto.
 fix spell https://es.wowhead.com/spell=133/bola-de-fuego y su daño base y escalado.
+fix spell https://es.wowhead.com/spell=44425/tromba-arcana y su daño escalado.
