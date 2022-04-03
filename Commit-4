@@ -14,3 +14,4 @@ Fix spell https://es.wowhead.com/spell=11366/piroexplosión ya genera el daño c
 fix spell https://es.wowhead.com/spell=133/bola-de-fuego y su daño base y escalado.
 fix spell https://es.wowhead.com/spell=44425/tromba-arcana y su daño escalado.
 fix spell https://es.wowhead.com/spell=7268/misiles-arcanos, daño base y daño escalado corregido.
+Se agrego doble chek en el npc de soporte para evitar que al usarlo pierdan registros de misiones, logros y monturas de la faccion que esta dejando. Esto se agrego a cada opción del npc de soporte por igual para que verifiquen si realmente están seguros de seguir o no y prevenir que por error le dan clic a otra cosa.
