@@ -17,3 +17,4 @@ fix spell https://es.wowhead.com/spell=7268/misiles-arcanos, daño base y daño 
 Se agrego doble chek en el npc de soporte para evitar que al usarlo pierdan registros de misiones, logros y monturas de la faccion que esta dejando. Esto se agrego a cada opción del npc de soporte por igual para que verifiquen si realmente están seguros de seguir o no y prevenir que por error le dan clic a otra cosa.
 Se fixeo la cantidad y el % de suerte que salga el item cuero salvaje al matar creaturas que lo sueltan.
 fix quest recorrido sangriento ya se puede tomar en su respectivo npc.
+fix quest vanguardia dracónica ya se puede tomar la misión que antes no se podía.
