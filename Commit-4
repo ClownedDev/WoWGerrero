@@ -18,3 +18,4 @@ Se agrego doble chek en el npc de soporte para evitar que al usarlo pierdan regi
 Se fixeo la cantidad y el % de suerte que salga el item cuero salvaje al matar creaturas que lo sueltan.
 fix quest recorrido sangriento ya se puede tomar en su respectivo npc.
 fix quest vanguardia dracónica ya se puede tomar la misión que antes no se podía.
+Fix loot de creatura para la mision gólems desguazados.
