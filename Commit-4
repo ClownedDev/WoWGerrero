@@ -19,3 +19,4 @@ Se fixeo la cantidad y el % de suerte que salga el item cuero salvaje al matar c
 fix quest recorrido sangriento ya se puede tomar en su respectivo npc.
 fix quest vanguardia dracónica ya se puede tomar la misión que antes no se podía.
 Fix loot de creatura para la mision gólems desguazados.
+Fix spell curación en cadena ahora ya cura en el rango correcto de escala con SP.
