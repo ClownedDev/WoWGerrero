@@ -34,3 +34,4 @@ Fix spell toque vampírico y daño escalado.
 Fix spell palabra de las sombras dolor y daño escalado acorde al SP del personaje.
 Fix spell peste devoradora y daño escalado con sp.
 Se reacomodo el daño escalado de explosión mental para que trabaje de forma correcta con los 3 stacks de orbes de sombras.
+Fix aura [Orbe de las Sombras] Ahora ya brinda el 30% de daño aumentado por cada stack.
