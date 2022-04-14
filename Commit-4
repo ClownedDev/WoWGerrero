@@ -35,3 +35,4 @@ Fix spell palabra de las sombras dolor y daño escalado acorde al SP del persona
 Fix spell peste devoradora y daño escalado con sp.
 Se reacomodo el daño escalado de explosión mental para que trabaje de forma correcta con los 3 stacks de orbes de sombras.
 Fix aura [Orbe de las Sombras] Ahora ya brinda el 30% de daño aumentado por cada stack.
+Fix apariciones sombrías ahora ya no se le puede targetear ni atacar, se le aumento la velocidad de movimiento en 1.3 para hacerlo mas dinamico y mas acorde a la info oficial.
