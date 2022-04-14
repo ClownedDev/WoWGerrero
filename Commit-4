@@ -33,3 +33,4 @@ Fix estado de pnj cobra cicatriz espiral ya esta de forma normal y no moviéndos
 Fix spell toque vampírico y daño escalado.
 Fix spell palabra de las sombras dolor y daño escalado acorde al SP del personaje.
 Fix spell peste devoradora y daño escalado con sp.
+Se reacomodo el daño escalado de explosión mental para que trabaje de forma correcta con los 3 stacks de orbes de sombras.
