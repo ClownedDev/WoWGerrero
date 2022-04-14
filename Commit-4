@@ -32,3 +32,4 @@ Pnj apéndice de gorath Ahora ya es inmune a efectos de miedo o cualquier otro q
 Fix estado de pnj cobra cicatriz espiral ya esta de forma normal y no moviéndose aun estando muerto.
 Fix spell toque vampírico y daño escalado.
 Fix spell palabra de las sombras dolor y daño escalado acorde al SP del personaje.
+Fix spell peste devoradora y daño escalado con sp.
