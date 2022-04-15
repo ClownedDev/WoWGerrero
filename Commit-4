@@ -39,3 +39,4 @@ Fix apariciones sombrías ahora ya no se le puede targetear ni atacar, se le aum
 spell destripar fix en su daño escalado con dots.
 Fix spell arañazo y su daño escalado.
 Nuevo sistema de como el servidor lee e interpreta la armadura en general, nuevo sistema de como se aplica el critico en jugadores y pnjs de mundo.
+Fix spell arma de runa danzante Ahora el Arma ya te da el 20%  de parada como indica su descripción.
