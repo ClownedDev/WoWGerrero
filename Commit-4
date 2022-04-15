@@ -38,3 +38,4 @@ Fix aura [Orbe de las Sombras] Ahora ya brinda el 30% de daño aumentado por cad
 Fix apariciones sombrías ahora ya no se le puede targetear ni atacar, se le aumento la velocidad de movimiento en 1.3 para hacerlo mas dinamico y mas acorde a la info oficial.
 spell destripar fix en su daño escalado con dots.
 Fix spell arañazo y su daño escalado.
+Nuevo sistema de como el servidor lee e interpreta la armadura en general, nuevo sistema de como se aplica el critico en jugadores y pnjs de mundo.
