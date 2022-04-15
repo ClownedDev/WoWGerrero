@@ -37,3 +37,4 @@ Se reacomodo el daño escalado de explosión mental para que trabaje de forma co
 Fix aura [Orbe de las Sombras] Ahora ya brinda el 30% de daño aumentado por cada stack.
 Fix apariciones sombrías ahora ya no se le puede targetear ni atacar, se le aumento la velocidad de movimiento en 1.3 para hacerlo mas dinamico y mas acorde a la info oficial.
 spell destripar fix en su daño escalado con dots.
+Fix spell arañazo y su daño escalado.
