@@ -47,3 +47,4 @@ Fix Glifo de Palabra de las Sombras: muerte Ahora ya se reinicia la spell si no 
 Fix daño escalado mordedura [Spell:Hunter] con el ap base.
 fix spell matar [Spell:Hunter] escala de forma correcta con el poder de ataque a distancia
 Fix spell mordedura monstruosa [Spell:Hunter] y su daño escalado con el AP base.
+Fix quest demonios latentes de la tierra a modo BlizzLike, ya se puede completar.
