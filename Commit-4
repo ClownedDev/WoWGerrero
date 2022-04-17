@@ -43,3 +43,4 @@ Fix spell arma de runa danzante Ahora el Arma ya te da el 20%  de parada como in
 Queda terminado throne of the four winds ahora ya se puede llegar hasta el final matar al boss y lotear en el aire sin problemas.
 Hackfix un trato con un dragón ahora ya no se traba y te permite continuar con la linea de misiones.
 Fix situando a los peones ya se puede completar y entregar para continuar con tus misiones en Etapas ardientes.
+Fix Glifo de Palabra de las Sombras: muerte Ahora ya se reinicia la spell si no muere el target en 25% de hp con un cd interno de 6s para reutilizarlo trabajando de forma correcta.
