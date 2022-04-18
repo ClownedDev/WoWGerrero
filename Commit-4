@@ -50,3 +50,4 @@ Fix spell mordedura monstruosa [Spell:Hunter] y su daño escalado con el AP base
 Fix quest demonios latentes de la tierra a modo BlizzLike, ya se puede completar.
 Fix charmed en vehiculos y spells que podrian causar caidas en el servidor mediante misiones que requieran el uso de traslados sobre vehiculos.
 Fix en waypoints causantes de caidas por falta de estructuras.
+Ya se puede votar y ganar tus puntos de votación de forma correcta, verificado: https://www.wow-guerrero.online/vote
