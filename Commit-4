@@ -52,3 +52,4 @@ Fix charmed en vehiculos y spells que podrian causar caidas en el servidor media
 Fix en waypoints causantes de caidas por falta de estructuras.
 Ya se puede votar y ganar tus puntos de votación de forma correcta, verificado: https://www.wow-guerrero.online/vote
 Fix spell eviscerar con su daño escalado en base a los puntos de combo.
+Fix spell Rigue:spell ruptura y su daño escalado.
