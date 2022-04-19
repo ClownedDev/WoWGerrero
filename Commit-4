@@ -60,3 +60,4 @@ Fix talento de shaman fulminación  ahora ya consume las 6 cargas de escudo de r
 Se agrego un nuevo sistema de leveleo por comando, este te permite elegir el rate de experiencia ganada al matar o al hacer misiones. El valor es de rate x1 hasta rate x25 y esto lo haces de forma manual con los comandos .modify xpkill y el comando .modify xpquest.
 Se reacomodo de mejor forma el miniteleport ahora ya costara 15 monedas guerreras el reset de CD de estancias.
 Rework y buff al boss mayordomo corzocelada ahora ya genera Energia en sus formas de gato, escorpion y druida. Haciendo que ahora castee todas sus habilidades y no solo pegar sin hacer mas nada.
+Fix item fetiche de vínculo de huesos Se agregó un tiempo de reutilización y Procs BlizzLike.
