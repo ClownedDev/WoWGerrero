@@ -62,3 +62,4 @@ Se reacomodo de mejor forma el miniteleport ahora ya costara 15 monedas guerrera
 Rework y buff al boss mayordomo corzocelada ahora ya genera Energia en sus formas de gato, escorpion y druida. Haciendo que ahora castee todas sus habilidades y no solo pegar sin hacer mas nada.
 Fix item fetiche de vínculo de huesos Se agregó un tiempo de reutilización y Procs BlizzLike.
 Fix item vial de sombras Se agregó un tiempo de reutilización y Procs BlizzLike.
+Fix spell:warrior lanzamiento destrozador ahora ya escala de forma correcta a su descripción generando el daño correcto.
