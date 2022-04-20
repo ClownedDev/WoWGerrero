@@ -65,3 +65,4 @@ Fix item vial de sombras Se agregó un tiempo de reutilización y Procs BlizzLik
 Fix spell:warrior lanzamiento destrozador ahora ya escala de forma correcta a su descripción generando el daño correcto.
 Fix spell:warrior lanzamiento heroico y su daño escalado ya genera como corresponde.
 Fix spell:warrior torbellino  ya genera su daño acorde a su descripción escalando.
+Fix item  fetiche de vínculo de huesos Se le acomodo el CD interno y la prob a un 15% acorde a la info Oficial, también se restringió su uso únicamente a las clases correctas [Pala, dk, warrior]
