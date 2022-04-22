@@ -66,3 +66,4 @@ Fix spell:warrior lanzamiento destrozador ahora ya escala de forma correcta a su
 Fix spell:warrior lanzamiento heroico y su daño escalado ya genera como corresponde.
 Fix spell:warrior torbellino  ya genera su daño acorde a su descripción escalando.
 Fix item  fetiche de vínculo de huesos Se le acomodo el CD interno y la prob a un 15% acorde a la info Oficial, también se restringió su uso únicamente a las clases correctas [Pala, dk, warrior]
+Fix spell:hunter disparo de quimera y su daño escalado, daño de naturaleza ya que en la base de datos no tenia ni estructura ni información, ahora ya esta trabajando como corresponde.
