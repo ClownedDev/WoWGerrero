@@ -69,3 +69,4 @@ Fix item  fetiche de vínculo de huesos Se le acomodo el CD interno y la prob a 
 Fix spell:hunter disparo de quimera y su daño escalado, daño de naturaleza ya que en la base de datos no tenia ni estructura ni información, ahora ya esta trabajando como corresponde.
 Fix spell:hunter disparo de quimera se agrego su información faltante para que escale como corresponde.
 Fix spell:hunter disparo mortal y su daño escalado.
+Nueva formula de ganancia de ira al recibir daño y al hacer daño trabajando de forma correcta.
