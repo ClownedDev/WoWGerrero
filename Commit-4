@@ -70,3 +70,4 @@ Fix spell:hunter disparo de quimera y su daño escalado, daño de naturaleza ya 
 Fix spell:hunter disparo de quimera se agrego su información faltante para que escale como corresponde.
 Fix spell:hunter disparo mortal y su daño escalado.
 Nueva formula de ganancia de ira al recibir daño y al hacer daño trabajando de forma correcta.
+Nueva formula para la regeneración de energía trabajando de forma correcta, esto aplica tanto a druidas como rogues.
