@@ -71,3 +71,4 @@ Fix spell:hunter disparo de quimera se agrego su información faltante para que 
 Fix spell:hunter disparo mortal y su daño escalado.
 Nueva formula de ganancia de ira al recibir daño y al hacer daño trabajando de forma correcta.
 Nueva formula para la regeneración de energía trabajando de forma correcta, esto aplica tanto a druidas como rogues.
+Nuevo menu en el npc de soporte para "Desbugear tus stats y tu daño", esto lo que hace es darte un reset en stats y level para que todo escale desde level 1 al 85 y se te desbugee cualquier tema relacionado a tu daño. Recuerden que esto solo sirve si tu personaje realmente tiene un bug en estas areas.
