@@ -75,3 +75,4 @@ Nuevo menu en el npc de soporte para "Desbugear tus stats y tu daño", esto lo q
 Fix quest a cazar huevos ya se completa a modo BlizzLike.
 Fix quest una entrega para thorgizog ya se puede completar de forma normal.
 Fix quest flor de llamas ya se puede recolectar la flor de llamas de forma BlizzLike.
+Fix  spell:warrior embate con escudo ahora ya escala su daño de forma correcta y se le quito la restricción de daño para poner sus valores correctos.
