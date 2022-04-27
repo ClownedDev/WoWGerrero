@@ -76,3 +76,4 @@ Fix quest a cazar huevos ya se completa a modo BlizzLike.
 Fix quest una entrega para thorgizog ya se puede completar de forma normal.
 Fix quest flor de llamas ya se puede recolectar la flor de llamas de forma BlizzLike.
 Fix  spell:warrior embate con escudo ahora ya escala su daño de forma correcta y se le quito la restricción de daño para poner sus valores correctos.
+Core/Unit: en caso de que la cancelación de un hechizo canalizado eliminara el aura, y el aura estuviera programado para lanzar otro hechizo canalizado al eliminarlo - En la situación anterior, perderíamos la referencia del hechizo actual y eliminaríamos la referencia del hechizo incorrecto, esto se solucionó borrando el puntero antes de la cancelación del hechizo.
