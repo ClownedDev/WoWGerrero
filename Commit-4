@@ -78,3 +78,4 @@ Fix quest flor de llamas ya se puede recolectar la flor de llamas de forma Blizz
 Fix  spell:warrior embate con escudo ahora ya escala su daño de forma correcta y se le quito la restricción de daño para poner sus valores correctos.
 Core/Unit: en caso de que la cancelación de un hechizo canalizado eliminara el aura, y el aura estuviera programado para lanzar otro hechizo canalizado al eliminarlo - En la situación anterior, perderíamos la referencia del hechizo actual y eliminaríamos la referencia del hechizo incorrecto, esto se solucionó borrando el puntero antes de la cancelación del hechizo.
 Core/Group: Fix memory leak, al disolver grupo y causar caídas.
+reajuste a la spell https://es.classic.wowhead.com/spell=689/drenar-vida de brujo.
