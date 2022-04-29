@@ -80,3 +80,4 @@ Core/Unit: en caso de que la cancelación de un hechizo canalizado eliminara el 
 Core/Group: Fix memory leak, al disolver grupo y causar caídas.
 reajuste a la spell https://es.classic.wowhead.com/spell=689/drenar-vida de brujo.
 Fix een daño es calado de la spell https://es.classic.wowhead.com/spell=6572/revancha Warrior.
+Fix spell https://es.wowhead.com/spell=46968/ola-de-choque y su daño escalado
