@@ -85,3 +85,4 @@ Fix spell https://es.wowhead.com/spell=6343/atronar ya escala de forma correcta 
 Fix spell https://es.tbc.wowhead.com/spell=12809/arremetida-de-conmoción en su daño base y escalado.
 Fix spell https://es.wowhead.com/spell=772/desgarrar y su daño escalado.
 Se actualizaron las funciones de bonus de defensa de todas las clases, se creo una nueva función que actualiza al instante todos los bonus que trabajen con el bloqueo, parada y esquivar.
+Se actualizo la formula de la maestría para que esta trabaje mucho mejor en general.
